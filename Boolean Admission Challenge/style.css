@@ -1,0 +1,86 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-image: url(file:///C:/Users/franc/OneDrive/Desktop/Atom%20Projects/Boolean%20Admission%20Challenge/MaterialeEsercizioLim/background.jpg);
+  background-size: cover;
+}
+
+div.backgroundbox {
+  background-color: #000;
+  color: #fff;
+  background-color: rgba(0,0,0,.5);
+  border-radius: 15px;
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+div.contentbox {
+  box-sizing:border-box;
+  margin: 0;
+  padding: 70px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 30%;
+}
+
+h1 {
+  color: lime;
+  text-align: center;
+  margin: 5px;
+}
+
+menu {
+  box-sizing:border-box;
+  margin: 0;
+  padding: 10px;
+  background-color: lime;
+  text-align: center;
+}
+
+main {
+  box-sizing:border-box;
+  margin-top: 18px;
+}
+
+h2 {
+  display: inline-block;
+  padding-left: 5px;
+  margin: 0;
+}
+
+section > p {
+  margin-top: 3px;
+  margin-bottom: 0;
+}
+
+#charge1 {
+  border: 10px solid goldenrod;
+  border-radius: 5px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  margin-right: 60%;
+}
+
+#charge2 {
+  border: 10px solid lime;
+  border-radius: 5px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  margin-right: 30%;
+}
+
+#charge3 {
+  border: 10px solid crimson;
+  border-radius: 5px;
+  margin-top: 0;
+  margin-bottom: 18px;
+  margin-right: 80%;
+}
